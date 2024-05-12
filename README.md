@@ -1,7 +1,7 @@
 # Pong!
 ### A Pong Clone made using C++ and SDL2
 ![start screen](https://github.com/WilliamFBurdick/SDL2_Pong/blob/master/Captures/Pong_Start.PNG)
-##Controls
+## Controls
 - W/S control the left paddle
 - Up/Down control the right paddle
 - Enter/Return will start the game and serve the ball
